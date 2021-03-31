@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@walnut/common": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo 'test server'"
   }
 }
